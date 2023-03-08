@@ -1,0 +1,19 @@
+Java'da ArrayList, LinkedList ve Vector, verileri depolamak için kullanılan üç farklı sınıftır.
+ Bu sınıflar arasındaki farklar şunlardır:
+
+Bellek yönetimi: ArrayList ve Vector, elemanları düzenli bir şekilde depolayan dizilere dayanır.
+LinkedList ise bağlı listeler kullanır. Bu nedenle, ArrayList ve Vector elemanları hızlı bir şekilde erişebilirken, LinkedList elemanlarına bağlı olarak erişim süresi değişebilir.
+
+Thread safety: Vector sınıfı, elemanlara eşzamanlı olarak erişmek için kullanıldığında thread safety sağlar.
+ArrayList ve LinkedList ise thread safety sağlamaz.
+
+Performans: ArrayList ve Vector, elemanlara rasgele erişim için en iyi performansı sağlar.
+ LinkedList ise genellikle elemanları tek tek dolaşarak işlem yapmak için daha uygundur.
+
+Boyut ayarı: ArrayList, boyutu otomatik olarak ayarlanabilen bir dizi olduğundan boyut ayarı kolaydır.
+Vector da boyutu otomatik olarak ayarlanabilen bir dizi olduğundan boyut ayarı kolaydır. Ancak, LinkedList boyutu ayarlanamayan bir bağlı liste olduğundan boyut ayarlamak zordur.
+
+Iterator performansı: ArrayList, Iterator'ların performansı açısından LinkedList'ten daha iyidir.
+ LinkedList, Iterator'larla performansı olumsuz etkileyen birkaç dezavantaja sahiptir.
+Özetle, ArrayList ve Vector elemanlara hızlı erişim sağlar ve boyutu otomatik olarak ayarlanabilir.
+ Vector ayrıca eşzamanlı erişim için kullanılabilir. LinkedList, elemanları dolaşmak için daha uygundur ve boyut ayarlamak daha zordur.
