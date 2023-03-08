@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="" />
+    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="text file">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Spliterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_subList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/m_ReplaceAll/UOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MgYGCHEvNRmYLArmNcTb6OlNKb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,17 +42,207 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/web/demo-blog-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.M_Spliterator">
+    <configuration name="M_Spliterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_Spliterator" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M_replaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.M_replaceAll" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_set" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_sort" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M_subList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_subList" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.M_Spliterator" />
+        <item itemvalue="Application.M_sort" />
+        <item itemvalue="Application.M_replaceAll" />
+        <item itemvalue="Application.M_subList" />
+        <item itemvalue="Application.M_set" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="" />
       <created>1678190601110</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678190601110</updated>
+      <workItem from="1678190602269" duration="1003000" />
+      <workItem from="1678261917813" duration="14248000" />
     </task>
+    <task id="LOCAL-00001" summary="Iterator Method">
+      <created>1678271631343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678271631343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="List add method">
+      <created>1678301479408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301479408</updated>
+    </task>
+    <task id="LOCAL-00003" summary="List clear method">
+      <created>1678301490434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301490434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="List Contains method">
+      <created>1678301503065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301503065</updated>
+    </task>
+    <task id="LOCAL-00005" summary="List get method">
+      <created>1678301512377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301512377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="List isEmpty method">
+      <created>1678301526758</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301526758</updated>
+    </task>
+    <task id="LOCAL-00007" summary="List Iterator method">
+      <created>1678301549599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301549599</updated>
+    </task>
+    <task id="LOCAL-00008" summary="List remove method">
+      <created>1678301563961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301563961</updated>
+    </task>
+    <task id="LOCAL-00009" summary="List replaceAll method">
+      <created>1678301577455</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301577455</updated>
+    </task>
+    <task id="LOCAL-00010" summary="List retainAll method">
+      <created>1678301593537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301593537</updated>
+    </task>
+    <task id="LOCAL-00011" summary="List set method">
+      <created>1678301610441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301610441</updated>
+    </task>
+    <task id="LOCAL-00012" summary="text file">
+      <created>1678301625881</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301625881</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iterator Method" />
+    <MESSAGE value="List add method" />
+    <MESSAGE value="List clear method" />
+    <MESSAGE value="List Contains method" />
+    <MESSAGE value="List get method" />
+    <MESSAGE value="List isEmpty method" />
+    <MESSAGE value="List Iterator method" />
+    <MESSAGE value="List remove method" />
+    <MESSAGE value="List replaceAll method" />
+    <MESSAGE value="List retainAll method" />
+    <MESSAGE value="List set method" />
+    <MESSAGE value="text file" />
+    <option name="LAST_COMMIT_MESSAGE" value="text file" />
   </component>
 </project>
