@@ -9,7 +9,6 @@ public class M_Contains {
     public static void main(String[] args) {
         String[] stringList={"Alma","Heyva","Nar","Armud"};
         List<String> list= Arrays.asList(stringList);
-        List<String> list1=new ArrayList<>();
         System.out.println(list.contains("Heyva"));// true
         System.out.println("---------");
         System.out.println(list.contains("Qogal")); // false
