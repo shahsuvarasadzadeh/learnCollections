@@ -13,5 +13,12 @@ public class M_add {
         for (String s:list){
             System.out.println(s);
         }
+        List<String>list1=new ArrayList<>();
+        list1.add("Alma");
+        list1.add("Heyva");
+        list.addAll(list1);
+        for (String s:list){
+            System.out.print(s+",");
+        }
     }
 }
