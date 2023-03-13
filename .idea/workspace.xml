@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="text file">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Spliterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_subList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/m_ReplaceAll/UOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="List - toArray method">
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/S_ContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/IteratingThroughTheSortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_HeadSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_SubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_toArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/SortedSet_LastAndFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/M_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/linkedHashSetAndHashSet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/set" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/web/demo-blog-1",
+    "last_opened_file_path": "D:/web/learnCollections",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,13 +63,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.M_Spliterator">
-    <configuration name="M_Spliterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_Spliterator" />
+  <component name="RunManager" selected="Application.M_toArray">
+    <configuration name="M_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.M_Comparator" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_replaceAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.M_replaceAll" />
+    <configuration name="M_HeadSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_HeadSet" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_set" />
+    <configuration name="M_SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_SubSet" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_sort" />
+    <configuration name="M_toArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_toArray" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_subList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.M_subList" />
+    <configuration name="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_LIST.m_ReplaceAll.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.M_Spliterator" />
-        <item itemvalue="Application.M_sort" />
-        <item itemvalue="Application.M_replaceAll" />
-        <item itemvalue="Application.M_subList" />
-        <item itemvalue="Application.M_set" />
+        <item itemvalue="Application.M_toArray" />
+        <item itemvalue="Application.M_SubSet" />
+        <item itemvalue="Application.M_HeadSet" />
+        <item itemvalue="Application.l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" />
+        <item itemvalue="Application.M_Comparator" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +148,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678190601110</updated>
       <workItem from="1678190602269" duration="1003000" />
-      <workItem from="1678261917813" duration="14248000" />
+      <workItem from="1678261917813" duration="14761000" />
+      <workItem from="1678607717662" duration="10907000" />
     </task>
     <task id="LOCAL-00001" summary="Iterator Method">
       <created>1678271631343</created>
@@ -224,7 +235,49 @@
       <option name="project" value="LOCAL" />
       <updated>1678301625881</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="List - Size method">
+      <created>1678301739333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301739333</updated>
+    </task>
+    <task id="LOCAL-00014" summary="List - sort method">
+      <created>1678301752174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301752174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="List - Spliterator method">
+      <created>1678301765103</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301765103</updated>
+    </task>
+    <task id="LOCAL-00016" summary="List - subList method">
+      <created>1678301776659</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301776659</updated>
+    </task>
+    <task id="LOCAL-00017" summary="List - replaceAll method">
+      <created>1678301808613</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301808613</updated>
+    </task>
+    <task id="LOCAL-00018" summary="List - toArray method">
+      <created>1678301830117</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678301830117</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +296,12 @@
     <MESSAGE value="List retainAll method" />
     <MESSAGE value="List set method" />
     <MESSAGE value="text file" />
-    <option name="LAST_COMMIT_MESSAGE" value="text file" />
+    <MESSAGE value="List - Size method" />
+    <MESSAGE value="List - sort method" />
+    <MESSAGE value="List - Spliterator method" />
+    <MESSAGE value="List - subList method" />
+    <MESSAGE value="List - replaceAll method" />
+    <MESSAGE value="List - toArray method" />
+    <option name="LAST_COMMIT_MESSAGE" value="List - toArray method" />
   </component>
 </project>
