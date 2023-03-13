@@ -1,0 +1,19 @@
+Java-da Set interfeysini implement eden müxtəlif siniflər var.
+HashSet və LinkedHashSet Set interfeysini implement eden siniflərdən ikisidir.
+Bu iki sinif arasındakı fərq elementlərin necə saxlanmasıdır.
+
+HashSet elementləri cədvəl kimi saxlayır.
+Elementlər hash funksiyasından istifadə etməklə saxlanılır və onların sırası vacib deyil.
+Beləliklə, elementlərin sırası təsadüfi dəyişə bilər.
+HashSet elementləri əlavə etmək və silmək üçün O(1) vaxt mürəkkəbliyinə malikdir.
+Amma, elementləri ardıcıl olaraq saxlamaq üçün istifadə edilmir.
+
+LinkedHashSet elementləri həm cədvəl, həm də iki istiqamətli əlaqəli siyahı kimi saxlayır.
+Elementlər əlavə olunduqları ardıcıllıqla saxlanılır və elementlərin sırası vacibdir.
+Beləliklə, elementlər əlavə olunduğu ardıcıllıqla göstərilir.
+LinkedHashSet elementləri əlavə etmək və silmək üçün HashSet ilə eyni O(1) vaxt mürəkkəbliyinə malikdir,
+lakin elementlərin sırasını qoruyur.
+
+Xülasə, HashSet elementləri sırasız saxlayır və elementləri tez bir zamanda əlavə etmək
+və silmək üçün istifadə olunur,LinkedHashSet isə elementləri sıra ilə saxlayır
+və elementlərin əlavə olunduğu ardıcıllıqla göstərilməli olduqda istifadə olunur.
