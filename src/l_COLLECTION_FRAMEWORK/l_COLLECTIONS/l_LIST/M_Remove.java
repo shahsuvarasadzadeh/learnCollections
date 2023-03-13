@@ -21,7 +21,8 @@ public class M_Remove {
         list.add("hello1");
         list.add("hello2");
         System.out.println(list);
-        System.out.println(list.remove(1));
+        System.out.println(list.remove("hello"));
+        System.out.println(list.get(0));
         System.out.println(list);
 
     }
