@@ -1,0 +1,21 @@
+Set Java-da kolleksiya interfeysidir və müxtəlif elementləri saxlamaq üçün istifadə olunur.
+Set interfeysi elementləri limitsiz şəkildə saxlayır və hər bir elementdən yalnız bir denə ola bilər.
+Set interfeysinə aşağıdakılar daxildir:
+
+SortedSet: Elementləri təbii qaydada saxlayan bir Set növüdür.
+
+NavigableSet: SortedSet interfeysini genişləndirir
+və əlavə olaraq elementlərin naviqasiyası üçün xüsusi üsulları ehtiva edir.
+
+HashSet: Set interfeysini həyata keçirən və elementləri təsadüfi qaydada saxlayan sinif.
+Həmçinin, HashSet null dəyərləri qəbul edir.
+
+LinkedHashSet: HashSet sinifini genişləndirir və elementləri daxiletmə sırasına görə saxlayır.
+Həmçinin LinkedHashSet null dəyərləri qəbul edir.
+
+TreeSet: SortedSet interfeysini tətbiq edən və elementləri təbii qaydada saxlayan sinif.
+Həmçinin, TreeSet null dəyərləri qəbul etmir.
+
+
+Set interfeysi elementləri manipulyasiya etmək üçün ümumi metodlar toplusunu da əhatə edir. Bunlara elementlərin əlavə edilməsi, elementlərin silinməsi, elementlərin tapılması və Setin boş olub olmadığını yoxlamaq kimi üsullar daxildir.
+Bu üsullar Set interfeysini həyata keçirən bütün siniflərdə eyni şəkildə istifadə oluna bilər.
