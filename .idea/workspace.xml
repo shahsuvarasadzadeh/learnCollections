@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="List - toArray method">
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/M_Remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/S_ContainsAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/IteratingThroughTheSortedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_HeadSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_SubSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/M_toArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_SortedSet/SortedSet_LastAndFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/M_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/linkedHashSetAndHashSet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/set" afterDir="false" />
+    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="xml">
+      <change afterPath="$PROJECT_DIR$/src/playerTeams/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playerTeams/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_Remove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/M_set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/web/learnCollections",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Public/ders/myKurs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.M_toArray">
-    <configuration name="M_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.M_Comparator" />
-      <module name="learnCollections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="M_HeadSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_HeadSet" />
       <module name="learnCollections" />
@@ -116,12 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playerTeams.Main" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.*" />
+          <option name="PATTERN" value="playerTeams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playerTeams.PlayerTeam" />
+      <module name="learnCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playerTeams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PlayerTeam" />
         <item itemvalue="Application.M_toArray" />
         <item itemvalue="Application.M_SubSet" />
         <item itemvalue="Application.M_HeadSet" />
-        <item itemvalue="Application.l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_TreeSet.M_Comparator" />
-        <item itemvalue="Application.M_Comparator" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +135,9 @@
       <updated>1678190601110</updated>
       <workItem from="1678190602269" duration="1003000" />
       <workItem from="1678261917813" duration="14761000" />
-      <workItem from="1678607717662" duration="10907000" />
+      <workItem from="1678607717662" duration="28136000" />
+      <workItem from="1678773497912" duration="4565000" />
+      <workItem from="1678778453319" duration="3492000" />
     </task>
     <task id="LOCAL-00001" summary="Iterator Method">
       <created>1678271631343</created>
@@ -277,23 +265,132 @@
       <option name="project" value="LOCAL" />
       <updated>1678301830117</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="TreeSet-Comparator">
+      <created>1678706452061</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706452092</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Iterating Through The SortedSet">
+      <created>1678706475987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706475987</updated>
+    </task>
+    <task id="LOCAL-00021" summary="LinkedHashSet and HashSet">
+      <created>1678706500160</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706500160</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Set-add method">
+      <created>1678706524523</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706524523</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Set-comparator method">
+      <created>1678706543053</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706543053</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Set-contains method">
+      <created>1678706557764</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706557764</updated>
+    </task>
+    <task id="LOCAL-00025" summary="SortedSet-headSet method">
+      <created>1678706581136</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706581136</updated>
+    </task>
+    <task id="LOCAL-00026" summary="SortedSet-subSet method">
+      <created>1678706604771</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706604771</updated>
+    </task>
+    <task id="LOCAL-00027" summary="SortedSet-toArray method">
+      <created>1678706619787</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706619787</updated>
+    </task>
+    <task id="LOCAL-00028" summary="SortedSet-first and last method">
+      <created>1678706640503</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706640503</updated>
+    </task>
+    <task id="LOCAL-00029" summary="SortedSet-contains method">
+      <created>1678706667443</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706667443</updated>
+    </task>
+    <task id="LOCAL-00030" summary="SortedSet-remove method">
+      <created>1678706681065</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706681065</updated>
+    </task>
+    <task id="LOCAL-00031" summary="SortedSet-iterator">
+      <created>1678706705099</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706705099</updated>
+    </task>
+    <task id="LOCAL-00032" summary="List-remove method">
+      <created>1678706738455</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706738455</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Set vs List">
+      <created>1678706865345</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706865345</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Set file">
+      <created>1678706874956</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706874956</updated>
+    </task>
+    <task id="LOCAL-00035" summary="xml">
+      <created>1678706900609</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678706900609</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Iterator Method" />
-    <MESSAGE value="List add method" />
-    <MESSAGE value="List clear method" />
-    <MESSAGE value="List Contains method" />
-    <MESSAGE value="List get method" />
-    <MESSAGE value="List isEmpty method" />
-    <MESSAGE value="List Iterator method" />
-    <MESSAGE value="List remove method" />
-    <MESSAGE value="List replaceAll method" />
-    <MESSAGE value="List retainAll method" />
     <MESSAGE value="List set method" />
     <MESSAGE value="text file" />
     <MESSAGE value="List - Size method" />
@@ -302,6 +399,23 @@
     <MESSAGE value="List - subList method" />
     <MESSAGE value="List - replaceAll method" />
     <MESSAGE value="List - toArray method" />
-    <option name="LAST_COMMIT_MESSAGE" value="List - toArray method" />
+    <MESSAGE value="TreeSet-Comparator" />
+    <MESSAGE value="Iterating Through The SortedSet" />
+    <MESSAGE value="LinkedHashSet and HashSet" />
+    <MESSAGE value="Set-add method" />
+    <MESSAGE value="Set-comparator method" />
+    <MESSAGE value="Set-contains method" />
+    <MESSAGE value="SortedSet-headSet method" />
+    <MESSAGE value="SortedSet-subSet method" />
+    <MESSAGE value="SortedSet-toArray method" />
+    <MESSAGE value="SortedSet-first and last method" />
+    <MESSAGE value="SortedSet-contains method" />
+    <MESSAGE value="SortedSet-remove method" />
+    <MESSAGE value="SortedSet-iterator" />
+    <MESSAGE value="List-remove method" />
+    <MESSAGE value="Set vs List" />
+    <MESSAGE value="Set file" />
+    <MESSAGE value="xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
 </project>
