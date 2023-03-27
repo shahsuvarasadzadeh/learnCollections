@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="xml">
-      <change afterPath="$PROJECT_DIR$/src/playerTeams/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playerTeams/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Public/ders/myKurs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/web/app_UASC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="M_HeadSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_HeadSet" />
@@ -137,7 +135,9 @@
       <workItem from="1678261917813" duration="14761000" />
       <workItem from="1678607717662" duration="28136000" />
       <workItem from="1678773497912" duration="4565000" />
-      <workItem from="1678778453319" duration="3492000" />
+      <workItem from="1678778453319" duration="4191000" />
+      <workItem from="1678876453695" duration="1217000" />
+      <workItem from="1678950429704" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="Iterator Method">
       <created>1678271631343</created>
@@ -384,15 +384,27 @@
       <option name="project" value="LOCAL" />
       <updated>1678706900609</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Player and Team with stream">
+      <created>1678802562179</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678802562179</updated>
+    </task>
+    <task id="LOCAL-00037" summary="xml">
+      <created>1678802578092</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678802578092</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="List set method" />
-    <MESSAGE value="text file" />
     <MESSAGE value="List - Size method" />
     <MESSAGE value="List - sort method" />
     <MESSAGE value="List - Spliterator method" />
@@ -415,6 +427,8 @@
     <MESSAGE value="List-remove method" />
     <MESSAGE value="Set vs List" />
     <MESSAGE value="Set file" />
+    <MESSAGE value="Player and Team üith stream" />
+    <MESSAGE value="Player and Team with stream" />
     <MESSAGE value="xml" />
     <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
