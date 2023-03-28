@@ -16,7 +16,7 @@ public class M_Comparator {
         // Printing elements in set before using comparator
         System.out.println("Set before using the comparator: " + strings);
 
-        TreeSet<String> strings1 = new TreeSet<String>(new Helper());
+        TreeSet<String> strings1 = new TreeSet<>(new Helper());
         strings1.add("A");
         strings1.add("e");
         strings1.add("q");

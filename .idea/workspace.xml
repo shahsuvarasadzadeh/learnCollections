@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="xml">
+    <list default="true" id="0fe1f6bd-9428-4e40-b01a-ea34be571de4" name="Changes" comment="regulations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playerTeams/PlayerTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/L_list" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_LIST/L_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/M_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l_COLLECTION_FRAMEWORK/l_COLLECTIONS/l_SET/l_TreeSet/M_Comparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/web/app_UASC",
+    "last_opened_file_path": "D:/web/learnCollections",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,13 +48,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="M_HeadSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.M_HeadSet" />
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l_COLLECTION_FRAMEWORK.l_MAP.A" />
       <module name="learnCollections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_COLLECTIONS.l_SET.l_SortedSet.*" />
+          <option name="PATTERN" value="l_COLLECTION_FRAMEWORK.l_MAP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PlayerTeam" />
         <item itemvalue="Application.M_toArray" />
         <item itemvalue="Application.M_SubSet" />
-        <item itemvalue="Application.M_HeadSet" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +139,8 @@
       <workItem from="1678778453319" duration="4191000" />
       <workItem from="1678876453695" duration="1217000" />
       <workItem from="1678950429704" duration="1237000" />
+      <workItem from="1679901510476" duration="7172000" />
+      <workItem from="1679989659012" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="Iterator Method">
       <created>1678271631343</created>
@@ -398,14 +401,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678802578092</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="regulations">
+      <created>1679901553553</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1679901553553</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="List - Size method" />
     <MESSAGE value="List - sort method" />
     <MESSAGE value="List - Spliterator method" />
     <MESSAGE value="List - subList method" />
@@ -430,6 +439,7 @@
     <MESSAGE value="Player and Team üith stream" />
     <MESSAGE value="Player and Team with stream" />
     <MESSAGE value="xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml" />
+    <MESSAGE value="regulations" />
+    <option name="LAST_COMMIT_MESSAGE" value="regulations" />
   </component>
 </project>
