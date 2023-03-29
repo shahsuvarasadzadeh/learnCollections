@@ -1,0 +1,3 @@
+            HashMap	                                  TreeMap
+1) HashMap can contain one null key.	TreeMap cannot contain any null key.
+2) HashMap maintains no order.	        TreeMap maintains ascending order.
